@@ -15,8 +15,10 @@
 ### 🌐 Connect with Me
 <p align="left">
     <a href="https://discord.com/users/242987611226898433" target="_blank" rel="noreferrer">
-        <img src="https://widgets.vendicated.dev/user?id=242987611226898433&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&" 
-             alt="Discord User Embed" width="340" height="72"/>
+    <img
+    src="https://dcbadge.limes.pink/api/shield/242987611226898433?compact=true"
+    alt="Discord User Embed"
+    />
     </a>
 </p>
 
