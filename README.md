@@ -24,40 +24,28 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a>
-</p>
+### 🛠️ Technologies & Tools
+
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab)
+
+![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
+![Javascript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)
+
+
+![Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
+![Grafana](https://img.shields.io/badge/Grafana-grey?style=flat-square&logo=grafana)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)
 
 ---
 
 ### 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
