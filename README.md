@@ -42,10 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&count_private=false&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
 </p>
