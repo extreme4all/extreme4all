@@ -42,7 +42,16 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&count_private=false&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&count_private=false&theme=gruvbox" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
+    </td>
+  </tr>
+</table>
