@@ -44,4 +44,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=extreme4all&show_icons=true&count_private=false&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=extreme4all&layout=compact&count_private=false&theme=gruvbox" />
