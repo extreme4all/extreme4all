@@ -9,18 +9,12 @@
 
 ### 👨‍💻 Currently Working On
 - 🔭 Building the [OSRS-Bot-Detector](https://github.com/Bot-detector), an open-source project dedicated to enhancing the Old School RuneScape (OSRS) experience.
+- Building [rs-trader](https://github.com/extreme4all/rs_trader), open-source project that emulates trading on the Old School RuneScape (OSRS) grand exchange, this can serve as the engine for training machine learning algoritmes.
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-    <a href="https://discord.com/users/242987611226898433" target="_blank" rel="noreferrer">
-    <img
-    src="https://dcbadge.limes.pink/api/shield/242987611226898433?compact=true"
-    alt="Discord User Embed"
-    />
-    </a>
-</p>
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)](https://github.com/extreme4all/extreme4all/issues)
 
 ---
 
