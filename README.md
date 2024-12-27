@@ -1,36 +1,32 @@
 <h1 align="center">Hi there, I'm extreme4all 👋</h1>
-<h3 align="center">Passionate about uncovering how the IT world works</h3>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=extreme4all&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">Passionate about uncovering how the IT & cybersecurity world works</h3>
 
 ---
 
 ### 👨‍💻 Currently Working On
-- 🔭 Building the [OSRS-Bot-Detector](https://github.com/Bot-detector), an open-source project dedicated to enhancing the Old School RuneScape (OSRS) experience.
+- Building the [OSRS-Bot-Detector](https://github.com/Bot-detector), an open-source project dedicated to detecting bots in Old School RuneScape (OSRS).
 - Building [rs-trader](https://github.com/extreme4all/rs_trader), open-source project that emulates trading on the Old School RuneScape (OSRS) grand exchange, this can serve as the engine for training machine learning algoritmes.
 
 ---
 
 ### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)](https://github.com/extreme4all/extreme4all/issues)
+<p align="center">
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=extreme4all&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+    <img height="25" src="https://img.shields.io/github/followers/extreme4all?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+    <img height="25" src="https://img.shields.io/github/stars/extreme4all?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<p align="center">
+<a href="https://github.com/extreme4all/extreme4all/issues">
+    <img height="25" src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github" alt="Connect with me"/>
+</a>
+</p>
 
 ---
 
 ### 🛠️ Technologies & Tools
-
-![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab)
-
-![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
-![Javascript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)
-
-
-![Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
-![Grafana](https://img.shields.io/badge/Grafana-grey?style=flat-square&logo=grafana)
-![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,powershell,git,github,gitlab,linux,aws,grafana,kubernetes,kafka,fastapi,mysql,postgres,mongodb&perline=6"/>
+</p>
 
 ---
 
